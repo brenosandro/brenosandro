@@ -17,17 +17,13 @@
 
 - 📄 Know about my experiences [I am a professional with extensive experience in the construction industry, specialized in developing detailed projects in 2D and 3D using AutoCAD and Revit. I currently work as a Planning and Control Technician at CMM Engenharia, where I am recognized for my skills in task automation and creation of automated dashboards integrated with databases. I have a strong foundation in quality of work, focusing on ISO9001 and PBQP-h certifications. I am in the process of training in Data Science at Estácio de Sá, an area that sparked my passion through my experience with task automation and data analysis. I complement my technical training in Buildings with courses in Microsoft Power BI, Construction Supervision and Leadership, MS-Project and Revit. My career includes leadership positions and technical responsibility in companies such as Rio Verde Engenharia e Construções Ltda and Dongyang Construction do Brasil, where I led significant projects, ensuring high quality and operational efficiency. I see my future at the intersection between technology and construction, with a special focus on data analysis. I am motivated by innovation and continuous improvement, always looking for new challenges to expand my knowledge and apply it in a practical and impactful way.](I am a professional with extensive experience in the construction industry, specialized in developing detailed projects in 2D and 3D using AutoCAD and Revit. I currently work as a Planning and Control Technician at CMM Engenharia, where I am recognized for my skills in task automation and creation of automated dashboards integrated with databases. I have a strong foundation in quality of work, focusing on ISO9001 and PBQP-h certifications. I am in the process of training in Data Science at Estácio de Sá, an area that sparked my passion through my experience with task automation and data analysis. I complement my technical training in Buildings with courses in Microsoft Power BI, Construction Supervision and Leadership, MS-Project and Revit. My career includes leadership positions and technical responsibility in companies such as Rio Verde Engenharia e Construções Ltda and Dongyang Construction do Brasil, where I led significant projects, ensuring high quality and operational efficiency. I see my future at the intersection between technology and construction, with a special focus on data analysis. I am motivated by innovation and continuous improvement, always looking for new challenges to expand my knowledge and apply it in a practical and impactful way.)
 
-[BI Analyst
+- BI Analyst
+  [Dínamo Engenharia - Project Management · Full-time October 2024 · 4 months Fortaleza, Ceará, Brazil · Hybrid
+  Responsible for creating and optimizing reports and dashboards in Power BI for the analysis of key performance indicators in the construction sector, such as cost control, schedules, and project performance. I work in data governance, ensuring the quality and
+  reliability of information for strategic decision-making. I develop and structure ETL processes to integrate data from different sources, automate workflows, and enhance the performance of BI solutions for effective project and resource management.]
 
-Dínamo Engenharia - Project Management · Full-time October 2024 · 4 months Fortaleza, Ceará, Brazil · Hybrid
-
-Responsible for creating and optimizing reports and dashboards in Power BI for the analysis of key performance indicators in the construction sector, such as cost control, schedules, and project performance. I work in data governance, ensuring the quality and reliability of information for strategic decision-making. I develop and structure ETL processes to integrate data from different sources, automate workflows, and enhance the performance of BI solutions for effective project and resource management.
-
-Power BI Consultant
-
-CMM Engenharia
-
-Provided Power BI consulting, focusing on pipeline support.]
+- Power BI Consultant
+  [CMM Engenharia - Provided Power BI consulting, focusing on pipeline support.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
